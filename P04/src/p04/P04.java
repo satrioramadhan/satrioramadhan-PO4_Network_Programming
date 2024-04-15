@@ -6,7 +6,7 @@ package p04;
 
 /**
  *
- * @author f415a
+ * @author Ramadhan
  */
 public class P04 {
 
